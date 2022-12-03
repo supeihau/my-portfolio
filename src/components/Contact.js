@@ -7,7 +7,6 @@ import { BookHalf } from 'react-bootstrap-icons';
 import { Balloon } from 'react-bootstrap-icons';
 import { GeoAlt } from 'react-bootstrap-icons';
 import { Telephone } from 'react-bootstrap-icons';
-import contactImg from "../assets/img/contact-img.svg";
 
 const Contact = () => {
     const formInitialDetails = {
